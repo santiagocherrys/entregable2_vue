@@ -1,7 +1,7 @@
 # entregable2_vue
 Actividad para practicar Vue Router and Store en el aplicativo de peliculas con vue
 
-## Pasos para correr el aplicactivo
+## Instalación de librerias y modulos
 
 - npm i
 - npm install -D sass sass-loader
@@ -15,3 +15,6 @@ Recurso Kevin
 Vue JS- Agregando un gestor de estados(Pinia) y Vue router
 
 https://www.youtube.com/watch?v=UCYMagQhRjQ
+
+## Correr el programa
+- npm run dev
